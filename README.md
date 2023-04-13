@@ -12,23 +12,9 @@
   <img align="center" alt="ara-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 <div>
-<a href="https://github.com/AramisLins">
- <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=AlexandreMMelo&theme=outrun&show_icons=true&count_private=true&line_height=27" alt="**SEU NOME** github stats"/>
-</a>
-<a href="https://github.com/AlexandreMMelo">
-  <img height="200em" width="300" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreMMelo&theme=outrun&hide_langs_below=1&line_height=27" />
-</a>
-</div>
-<br>
-<br>
-<br>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<p align="left"> 
-    &nbsp&nbsp&nbsp&nbspOlá, meu nome é Alexandre, a.k.a Z_h,curso <strong>Ciência da Computação</strong> na Universidade Federal Da Paraíba e trabalho com <strong>Appsec</strong>.<br><br>
-    &nbsp&nbsp&nbsp&nbspAtualmente estou dedicando meus estudos à segurança da informação, que é a area que tenho interessem em atuação profissional.
-</p>
+
 <hr>
 <div> 
   <a href="https://www.instagram.com/aramislneto/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
