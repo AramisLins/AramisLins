@@ -12,7 +12,7 @@
   <img align="center" alt="ara-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 <div>
-<a href="https://github.com/AlexandreMMelo">
+<a href="https://github.com/AramisLins">
  <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=AlexandreMMelo&theme=outrun&show_icons=true&count_private=true&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 <a href="https://github.com/AlexandreMMelo">
